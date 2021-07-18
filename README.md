@@ -8,4 +8,4 @@ Para desenvolver a estrutura da página, utilizei HTML5 e para estilizar a mesma
 
 ## Como visualizar?
 
-O projeto pode ser clonado ou uma demonstração pode ser acessada através [daqui](https://gayapedro.github.io/index.html).
+O projeto pode ser clonado ou uma demonstração pode ser acessada através [daqui](https://des1.gayapedro.dev.br).
